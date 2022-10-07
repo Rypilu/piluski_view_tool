@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Various view specific methods for applications I use."
   spec.description = "Provides generated HTML data for Rails applications"
-  spec.homepage = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage = "https://github.com/Rypilu/piluski_view_tool"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
