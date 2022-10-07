@@ -14,7 +14,9 @@ If bundler is not being used to manage dependencies, install the gem by executin
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+PiluskiViewTool::Renderer.copyright 'Ryan Piluski', 'All rights reserved'
+```
 
 ## Development
 
@@ -24,7 +26,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/piluski_view_tool.
+Bug reports and pull requests are welcome on GitHub at https://github.com/Rypilu/piluski_view_tool.
 
 ## License
 
