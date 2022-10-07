@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.description = "Provides generated HTML data for Rails applications"
   spec.homepage = "https://github.com/Rypilu/piluski_view_tool"
   spec.license = "MIT"
-  spec.required_ruby_version = ">= 2.6.0"
+  spec.required_ruby_version = ">= 2.5.0"
 
   spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
 
